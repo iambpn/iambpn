@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://bipin-maharjan.com.np/" target="blank">Bipin</a></h1>
-<h3 align="center">A passionate Web Backend and Frontend developer</h3>
+<h3 align="center">A Passionate Software Backend and Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iambpn&label=Profile%20views&color=0e75b6&style=flat" alt="iambpn" /> </p>
 
@@ -19,6 +19,21 @@
 
 - 📄 Know about my experiences <a href="https://bipin-maharjan.com.np/" target="blank">Personal Website</a>
 <br/>
+
+<div>
+	<h4>NPM Packages 📦:</h4>
+	<ul>
+		<li>
+			<a href="https://www.npmjs.com/package/mime_message_composer">Mime Message Composer</a>
+		</li>
+		<li>
+			<a href="https://www.npmjs.com/package/proto_ts_schema">Proto to TS Schema</a>
+		</li>
+		<li>
+			<a href="https://www.npmjs.com/package/reverse_proxy_pathmapper">Reverse Proxy Path Mapper</a>
+		</li>
+	</ul>
+</div>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
 
