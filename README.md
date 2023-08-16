@@ -18,10 +18,9 @@
 - 📫 Contact me 👉 <a href="mailto:bipinmhr10@gmail.com">Here</a>
 
 - 📄 Know about my experiences <a href="https://bipin-maharjan.com.np/" target="blank">Personal Website</a>
-<br/>
 
 <div>
-	<h4>NPM Packages 📦:</h4>
+	<h4>My NPM Packages 📦:</h4>
 	<ul>
 		<li>
 			<a href="https://www.npmjs.com/package/mime_message_composer">Mime Message Composer</a>
@@ -31,6 +30,15 @@
 		</li>
 		<li>
 			<a href="https://www.npmjs.com/package/reverse_proxy_pathmapper">Reverse Proxy Path Mapper</a>
+		</li>
+	</ul>
+</div>
+
+<div>
+	<h4>My Blogs 📜:</h4>
+	<ul>
+		<li>
+			<a href="https://bopon-maharjan.medium.com/scratch-implementation-of-logistic-regression-766461577d9f">Scratch Implementation of Logistic Regression</a>
 		</li>
 	</ul>
 </div>
