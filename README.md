@@ -39,6 +39,8 @@
 	<ul>
 		<li>
 			<a href="https://bopon-maharjan.medium.com/scratch-implementation-of-logistic-regression-766461577d9f">Scratch Implementation of Logistic Regression</a>
+		</li>
+		<li>
 			<a href="https://bopon-maharjan.medium.com/same-site-cookie-attribute-in-short-7930466d4800">Same Site Cookie attribute in short</a>
 		</li>
 	</ul>
