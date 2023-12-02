@@ -26,10 +26,13 @@
 			<a href="https://www.npmjs.com/package/mime_message_composer">Mime Message Composer</a>
 		</li>
 		<li>
-			<a href="https://www.npmjs.com/package/proto_ts_schema">Proto to TS Schema</a>
+			<a href="https://www.npmjs.com/package/proto_ts_schema">Proto to TS Schema Transpiler</a>
 		</li>
 		<li>
-			<a href="https://www.npmjs.com/package/reverse_proxy_pathmapper">Reverse Proxy Path Mapper</a>
+			<a href="https://www.npmjs.com/package/@iambpn/auths">Auths - Built in Authorization and Authentication package</a>
+		</li>
+		<li>
+			<a href="https://www.npmjs.com/package/reverse_proxy_pathmapper">Reverse Proxy - Path Mapper</a>
 		</li>
 	</ul>
 </div>
