@@ -11,9 +11,9 @@
   </a>
 </div>
   
-- 🔭 I’m currently working in <a href="https://www.ekbana.com/" target="blank">Ekbana Solutions</a> 
+<!-- - 🔭 I’m currently working in <a href="https://www.ekbana.com/" target="blank">Ekbana Solutions</a> -->
 
-- 🌱 I’m currently working on Node-js as backend developer.
+- 🌱 I’m currently working as Node-js developer.
 
 - 📫 Contact me 👉 <a href="mailto:bipinmhr10@gmail.com">Here</a>
 
@@ -54,21 +54,14 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/iambepin/">
-			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://github.com/iambpn">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/10903596/bipin-maharjan?tab=profile">
-				<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://bopon-maharjan.medium.com/">
-					<img src="https://img.icons8.com/external-tanah-basah-basic-outline-tanah-basah/40/000000/external-medium-social-media-tanah-basah-basic-outline-tanah-basah.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/iambepin">
-			<img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://bipin-maharjan.com.np/">
-					<img src="https://img.icons8.com/plasticine/40/000000/resume.png" ></a>
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/iambepin/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/iambpn"><img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://stackoverflow.com/users/10903596/bipin-maharjan?tab=profile"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/40/000000/external-stack-overflow-is-a-question-and-answer-site-for-professional-logo-color-tal-revivo.png"></a>
+   	<a style="margin-left: 10px;" target="_blank" href="https://bopon-maharjan.medium.com/"><img src="https://img.icons8.com/external-tanah-basah-basic-outline-tanah-basah/40/000000/external-medium-social-media-tanah-basah-basic-outline-tanah-basah.png"></a>
+	<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/iambepin"><img src="https://img.icons8.com/doodle/40/000000/twitter-squared--v2.png" ></a>
+	<a style="margin-left: 5px;" target="_blank" href="https://bipin-maharjan.com.np/"><img src="https://img.icons8.com/plasticine/40/000000/resume.png" ></a>
       </div>
 
 </p>
-
 
 <sub>*Design Credit: [saurabh chavan](https://github.com/100rabhcsmc)*</sub>
