@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://bipin-maharjan.com.np/" target="blank">Bipin</a></h1>
-<h3 align="center">A Passionate Software Backend and Frontend Developer</h3>
+<h3 align="center">A Passionate Backend and Frontend Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iambpn&label=Profile%20views&color=0e75b6&style=flat" alt="iambpn" /> </p>
 
@@ -13,7 +13,7 @@
   
 <!-- - 🔭 I’m currently working in <a href="https://www.ekbana.com/" target="blank">Ekbana Solutions</a> -->
 
-- 🌱 I’m currently working as Node-js developer.
+- 🌱 I’m currently working as Node-js and GO developer.
 
 - 📫 Contact me 👉 <a href="mailto:bipinmhr10@gmail.com">Here</a>
 
