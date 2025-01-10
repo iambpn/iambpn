@@ -11,7 +11,7 @@
   </a>
 </div>
   
-<!-- - 🔭 I’m currently working in <a href="https://www.ekbana.com/" target="blank">Ekbana Solutions</a> -->
+<!-- - 🔭 I’m currently working at <a href="https://www.ekbana.com/" target="blank">Ekbana Solutions</a> -->
 
 - 🌱 I’m currently working as Node-js and GO developer.
 
