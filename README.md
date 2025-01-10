@@ -31,9 +31,6 @@
 		<li>
 			<a href="https://www.npmjs.com/package/@iambpn/auths">Auths - Built in Authorization and Authentication package</a>
 		</li>
-		<li>
-			<a href="https://www.npmjs.com/package/reverse_proxy_pathmapper">Reverse Proxy - Path Mapper</a>
-		</li>
 	</ul>
 </div>
 
@@ -45,6 +42,9 @@
 		</li>
 		<li>
 			<a href="https://bopon-maharjan.medium.com/same-site-cookie-attribute-in-short-7930466d4800">Same Site Cookie attribute in short</a>
+		</li>
+		<li>
+			<a href="https://bopon-maharjan.medium.com/my-take-on-thinking-in-react-query-89bee34e69f3">My Take on "Thinking in React Query"</a>
 		</li>
 	</ul>
 </div>
