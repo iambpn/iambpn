@@ -1,35 +1,33 @@
-<h1 align="center">Hi 👋, I'm <a href="https://bipin-maharjan.com.np/" target="blank">Bipin</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://bipin-maharjan.com.np/" target="_blank">Bipin</a></h1>
 <h3 align="center">A Passionate Backend and Frontend Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iambpn&label=Profile%20views&color=0e75b6&style=flat" alt="iambpn" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iambepin" target="blank"><img src="https://img.shields.io/twitter/follow/iambepin?logo=twitter&style=for-the-badge" alt="iambepin" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iambepin" target="_blank"><img src="https://img.shields.io/twitter/follow/iambepin?logo=twitter&style=for-the-badge" alt="iambepin" /></a> </p>
 
 <div align="center">
   <a target="_blank" align="center">
     <img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
   </a>
 </div>
-  
-<!-- - 🔭 I’m currently working at <a href="https://www.ekbana.com/" target="blank">Ekbana Solutions</a> -->
 
 - 🌱 I’m currently working as Node-js and GO developer.
 
-- 📫 Contact me 👉 <a href="mailto:bipinmhr10@gmail.com">Here</a>
+- 📫 Contact me 👉 <a href="mailto:bipinmhr10@gmail.com" target="_blank">Here</a>
 
-- 📄 Know about my experiences <a href="https://bipin-maharjan.com.np/" target="blank">Personal Website</a>
+- 📄 Know about my experiences <a href="https://bipin-maharjan.com.np/" target="_blank">Personal Website</a>
 
 <div>
 	<h4>My NPM Packages 📦:</h4>
 	<ul>
 		<li>
-			<a href="https://www.npmjs.com/package/mime_message_composer">Mime Message Composer</a>
+			<a href="https://www.npmjs.com/package/mime_message_composer" target="_blank">Mime Message Composer</a>
 		</li>
 		<li>
-			<a href="https://www.npmjs.com/package/proto_ts_schema">Proto to TS Schema Transpiler</a>
+			<a href="https://www.npmjs.com/package/proto_ts_schema" target="_blank">Proto to TS Schema Transpiler</a>
 		</li>
 		<li>
-			<a href="https://www.npmjs.com/package/@iambpn/auths">Auths - Built in Authorization and Authentication package</a>
+			<a href="https://www.npmjs.com/package/@iambpn/auths" target="_blank">Auths - Built in Authorization and Authentication package</a>
 		</li>
 	</ul>
 </div>
@@ -38,13 +36,13 @@
 	<h4>My Blogs 📜:</h4>
 	<ul>
 		<li>
-			<a href="https://bopon-maharjan.medium.com/scratch-implementation-of-logistic-regression-766461577d9f">Scratch Implementation of Logistic Regression</a>
+			<a href="https://bopon-maharjan.medium.com/scratch-implementation-of-logistic-regression-766461577d9f" target="_blank">Scratch Implementation of Logistic Regression</a>
 		</li>
 		<li>
-			<a href="https://bopon-maharjan.medium.com/same-site-cookie-attribute-in-short-7930466d4800">Same Site Cookie attribute in short</a>
+			<a href="https://bopon-maharjan.medium.com/same-site-cookie-attribute-in-short-7930466d4800" target="_blank">Same Site Cookie attribute in short</a>
 		</li>
 		<li>
-			<a href="https://bopon-maharjan.medium.com/my-take-on-thinking-in-react-query-89bee34e69f3">My Take on "Thinking in React Query"</a>
+			<a href="https://bopon-maharjan.medium.com/my-take-on-thinking-in-react-query-89bee34e69f3" target="_blank">My Take on "Thinking in React Query"</a>
 		</li>
 	</ul>
 </div>
@@ -53,7 +51,7 @@
 	<h4> Websites 🌐:</h4>
 	<ul>
 		<li>
-			<a href="https://ggtools.dev">Image Watermarker - Add image overlay on base image</a>
+			<a href="https://ggtools.dev" target="_blank">Image Watermarker - Add image overlay on base image</a>
 		</li>
 	</ul>
 </div>
