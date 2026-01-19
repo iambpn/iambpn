@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iambpn&label=Profile%20views&color=0e75b6&style=flat" alt="iambpn" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iambepin" target="_blank"><img src="https://img.shields.io/twitter/follow/iambepin?logo=twitter&style=for-the-badge" alt="iambepin" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iam_bpn" target="_blank"><img src="https://img.shields.io/twitter/follow/iam_bpn?logo=twitter&style=for-the-badge" alt="iam_bpn" /></a> </p>
 
 <div align="center">
   <a target="_blank" align="center">
