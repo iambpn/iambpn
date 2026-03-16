@@ -47,14 +47,14 @@
 	</ul>
 </div>
 
-<div>
+<!-- <div>
 	<h4> Websites 🌐:</h4>
 	<ul>
 		<li>
 			<a href="https://ggtools.dev" target="_blank">Image Watermarker - Add image overlay on base image</a>
 		</li>
 	</ul>
-</div>
+</div> -->
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
 
