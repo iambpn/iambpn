@@ -1,0 +1,5 @@
+# Codver dev environment
+docker-compose.dev.yml
+bunfig.toml
+.env
+.codver-plan
